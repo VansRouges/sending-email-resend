@@ -13,8 +13,3 @@ Register on Resend and verify your domains. and create an api route in order to 
 
 
 
-## Note
-This App Designed By Re9iNee for 
-[`A Guide To Die By Code` Youtube Channel](https://www.youtube.com/@AGuideToDieByCode)
-
-
